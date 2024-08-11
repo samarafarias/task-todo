@@ -13,7 +13,7 @@ When you click on the check (when the task is done), it will be "crossed out" an
 
 ![Captura de tela 2024-08-11 151714](https://github.com/user-attachments/assets/a5d8f5a9-2ac2-4f25-b5fc-0815c4a8b406)
 
-initially the storage is being carried out in localStorage
+initially the storage is being carried out in localStorage.
 
 Features futures : 
 
