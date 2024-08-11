@@ -9,7 +9,7 @@ when there is no task :
 when there is one or more tasks :
 
 Here you can get a spoiler about the functions that this task list has.
-When you click on the check (when the task is done), it will be "crossed out" and the check will turn green for better viewing. You can also delete a task individually and all of them at once.
+When you click on the check (when the task is done), it will be "crossed out" and the check will turn green for better viewing. You can also delete a task individually or all of them at once.
 
 ![Captura de tela 2024-08-11 151714](https://github.com/user-attachments/assets/a5d8f5a9-2ac2-4f25-b5fc-0815c4a8b406)
 
