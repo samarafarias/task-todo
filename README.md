@@ -1,5 +1,7 @@
 # task-todo 📄
 
+tasks to do : https://samarafarias.github.io/task-todo/
+
 This will be the initial image you will see when viewing the project for the first time in your browser.
 
 when there is no task :
