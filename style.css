@@ -69,7 +69,7 @@ body {
 }
 
 .todo_item > div {
-    width: 80%;
+    width: 92%;
 }
 
 .todo_item:hover{
@@ -135,19 +135,13 @@ body {
     border: none;
 }
 
-.checkbox-task {
-    background-color: rgba(255, 255, 255, 0.733);
-    border-radius: 50%;
-    vertical-align: middle;
-    border: 1px solid #ddd;
-    appearance: none;
-    -webkit-appearance: none;
-    outline: none;
+.fa-circle-check{
+    color: rgba(255, 255, 255, 0.733);
     cursor: pointer;
 }
 
-.checkbox-task:checked {
-    background-color: rgba(35, 243, 35, 0.479);
+.check-task{
+    color: rgba(35, 243, 35, 0.479);
 }
 
 .actionsItens {
@@ -161,18 +155,14 @@ body {
 .fa-trash{
     color: rgba(255, 0, 0, 0.733);
     cursor: pointer;
+    margin-right: 10px;
 }
 
-@media screen and (max-width: 768px) {
-    .todo {
-        width: 100%;
-    }
+.fa-clock{
+    color: rgba(255, 255, 255, 0.733);
+    cursor: pointer;
+}
 
-    .todo_title {
-        font-size: 3rem;
-    }
-
-    .todo_new-item > input{
-        width: 100%; 
-    }
+.highlight-icon {
+    color: #ffcc00; 
 }
