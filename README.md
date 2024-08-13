@@ -23,6 +23,6 @@ Features futures :
 
 -times and dates.
 
--"waiting" status.
+-"waiting" status. ✔
 
 -initially show tasks from the previous/current day, the others will be separated but still visible.
